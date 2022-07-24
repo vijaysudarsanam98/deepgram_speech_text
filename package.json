@@ -1,0 +1,22 @@
+{
+  "name": "deepgram_speech_text",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vijaysudarsanam98/deepgram_speech_text.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vijaysudarsanam98/deepgram_speech_text/issues"
+  },
+  "homepage": "https://github.com/vijaysudarsanam98/deepgram_speech_text#readme",
+  "dependencies": {
+    "@deepgram/sdk": "^1.4.4"
+  }
+}
